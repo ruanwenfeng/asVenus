@@ -57,7 +57,7 @@ describe('第一个测试',  ()  =>{
 
 现在，就是现在，打开您的命令行，轻轻地敲下 `mocha` 这个单词，回车，mocha 会自动寻找到 test 文件并执行测试，你会看到。
 
-![image](5BB2B846883849E5B5296C0A67EC9F34)
+![image](http://as-venus.oss-cn-beijing.aliyuncs.com/1.1%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E7%9A%84%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 是吧，我们测试通过了，
 
@@ -76,7 +76,7 @@ describe('第一个测试',  ()  => {
 
 然后我们在命令行敲下 `jest jest-test`，如果未发生意外你会看到。
 
-![image](E9B8F4CE3CAD44CD87A6CFD754D98FF3)
+![image](http://as-venus.oss-cn-beijing.aliyuncs.com/1.2%20jest%20%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 
 > 如果你看到命令行抛出以下报错：  
