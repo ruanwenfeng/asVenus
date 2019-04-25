@@ -1,8 +1,3 @@
-```
-^ Sunny
-) 19.04.25
-? F
-```
 
 # 单元测试是什么？
 
@@ -19,9 +14,6 @@
 那么，我们开始吧！
 
 # 第一个测试
-
-**特别声明：以下所有例子都已通过测试，您还可以在 [column-example](https://github.com/yeshimei/column-example) 下载本教程完整实例代码帮助你更好学习。** 
-
 
 首先，通过 npm 安装单元测试框架 mocha 和 jest 与 [chai 断言库](https://www.chaijs.com/api/assert/)。
 
