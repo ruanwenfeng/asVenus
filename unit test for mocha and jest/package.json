@@ -1,0 +1,11 @@
+{
+  "name": "unit test for mocha and jest",
+  "version": "1.0.0",
+  "author": "夜是美",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jest": "^24.7.1",
+    "mocha": "^6.1.4",
+    "source-map-support": "^0.5.12"
+  }
+}
