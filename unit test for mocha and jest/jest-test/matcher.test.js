@@ -45,6 +45,10 @@ describe('matcher', () => {
     expect('abcd').toHaveLength(4)
   })
 
+  it('any', () => {
+    expect([]).any(Array)
+  })
+
   it('toBeGreaterThan', () => {
     expect(10).toBeGreaterThan(3)
   })
